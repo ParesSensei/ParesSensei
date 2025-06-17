@@ -30,7 +30,7 @@ I'm an Informatics Engineering student at Telkom University, deeply passionate a
 
 ## 📫 Contact
 
-- 🌐 [LinkedIn](https://linkedin.com/in/pares-)
+- 🌐 [LinkedIn](https://linkedin.com/in/pares-sensei)
 - 🧑‍💻 [GitHub](https://github.com/ParesSensei)
 
 ---
