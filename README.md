@@ -1,16 +1,38 @@
-## Hi there 👋
+# M. Alfarez Pahlevi Tanjung
+ 
+Authentic commitment to Web3.
 
-<!--
-**ParesSensei/ParesSensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics Engineering student at Telkom University, deeply passionate about blockchain development — especially **Zero-Knowledge Proofs (ZKPs)**, **cryptography**, and **backend engineering** using **Rust** and **Python**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Core Focus
+
+- 🔐 Zero-Knowledge Proofs (zk-SNARKs, zk-STARKs)
+- ⚙️ Blockchain Development (Polkadot, Ethereum)
+- 🧪 Cryptography & Privacy Engineering
+- 🦀 Backend Engineering with Rust & Python
+- 🧰 Substrate & Polkadot SDK (FRAME, Cumulus, XCM)
+
+---
+
+## 🧰 Tools & Technologies
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
+![Polkadot](https://img.shields.io/badge/Polkadot-ffffff?style=flat&logo=polkadot&logoColor=ec4899)
+![Substrate](https://img.shields.io/badge/Substrate-3c3c3c?style=flat)
+
+
+---
+
+## 📫 Contact
+
+- 🌐 [LinkedIn](https://linkedin.com/in/pares-)
+- 🧑‍💻 [GitHub](https://github.com/ParesSensei)
+
+---
+
+> _"Contributing to the Web3 ecosystem through proofs, protocols, and real-world experimentation."_
