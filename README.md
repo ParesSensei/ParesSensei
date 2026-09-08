@@ -2,7 +2,7 @@
  
 Authentic commitment to Web3.
 
-I'm an Informatics Engineering student at Telkom University, deeply passionate about blockchain development — especially **Zero-Knowledge Proofs (ZKPs)**, **cryptography**, and **backend engineering** using **Rust** and **Python**.
+I'm an Informatics Engineering graduate from Telkom University, deeply passionate about blockchain development — especially **Zero-Knowledge Proofs (ZKPs)**, **cryptography**, and **backend engineering** using **Rust** and **Python**.
 
 ---
 
